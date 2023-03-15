@@ -1,6 +1,8 @@
 # Computer-Vision-Projects
 Computer Vision Projects at Carnegie Mellon University
 
+These Projects generally involve traditional Computer Vision for Image Processing for Detection, Segmentation and Manipulation.
+
 ## Copyright
 Author [@Parth Malpathak](https://github.com/parthmalpathak)
 
