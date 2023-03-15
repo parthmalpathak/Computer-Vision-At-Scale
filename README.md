@@ -1,4 +1,4 @@
-# Computer-Vision-Projects
+# Computer Vision at Scale
 Computer Vision Projects at Carnegie Mellon University
 
 These Projects generally involve traditional Computer Vision for Image Processing for Detection, Segmentation and Manipulation.
